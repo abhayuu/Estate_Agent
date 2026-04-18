@@ -1,0 +1,17 @@
+joblib
+pandas
+pydantic
+langchain-core
+langgraph
+streamlit
+python-dotenv
+chromadb
+faiss-cpu
+scikit-learn
+xgboost
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+openai
